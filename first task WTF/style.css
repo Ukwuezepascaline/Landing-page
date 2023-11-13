@@ -80,7 +80,7 @@ margin: 5px 0;
 
 }
 
-.Hero-section .text{
+.Hero-section .Hero{
     width: 50%;
     padding: 10px 50px ;
     display: flex;
@@ -90,36 +90,36 @@ margin: 5px 0;
     
 }
 
-.hero-sect .text h1{
+.Hero-section .Hero h1{
     font-size: 28px;
     font-weight: bold;
     margin-top: 20px;
     margin-bottom: 15px;
 }
 
-.hero-sect .text .txt1{
+.Hero-section .Hero .text{
     width: 300px;
     line-height: 20px;
     margin-bottom: 15px;
 }
 
-.Hero-section .text .txt2,
-.hero-sect .text .txt3{
+.Hero-section .Hero .line1,
+.Hero-section .Hero .line2{
     line-height: 20px;
     font-size: 16px;
 }
 
-.Hero-section .text .txt2 span{
+.Hero-section .Hero .line1 span{
     font-weight: bold;
     text-decoration: line-through;
 }
 
-.hero-sect .text .txt3 span{
+.Hero-section .Hero .line2 span{
     font-weight: bold;
 
 }
 
-.hero-sect .text .btn, .btn{
+.Hero-section .Hero .btn, .btn{
     width: 155px;
     padding:  10px 50px;
     font-size: 17px;
