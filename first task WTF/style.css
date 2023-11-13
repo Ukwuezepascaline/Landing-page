@@ -103,13 +103,13 @@ margin: 5px 0;
     margin-bottom: 15px;
 }
 
-.hero-sect .text .txt2,
+.Hero-section .text .txt2,
 .hero-sect .text .txt3{
     line-height: 20px;
     font-size: 16px;
 }
 
-.hero-sect .text .txt2 span{
+.Hero-section .text .txt2 span{
     font-weight: bold;
     text-decoration: line-through;
 }
