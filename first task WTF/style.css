@@ -29,7 +29,7 @@
     width: 100%;
 }
 
-.menuIcon{
+.menu{
     display: block;
 
 }
@@ -68,7 +68,7 @@ background-color: black;
 margin: 5px 0;
 }
 
-.hero-sect{
+.Hero-section{
     display: flex;
     justify-items: center;
     padding-top: 100px;
