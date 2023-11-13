@@ -186,7 +186,7 @@ gap: 20px;
     padding: 30px 100px;  
 }
 
-.item-desc{
+.card-box{
     width: 30%;
     min-width: 289px;
     padding: 10px 12px;
@@ -203,14 +203,14 @@ gap: 20px;
 
 }
 
-.item-desc .fa{
+.card-box .fa{
     position: absolute;
     top: 15px;
     right: 20px;
     font-size: 28px;
 }
 
-.item-desc img{
+.card-box img{
     width: 50%;
     height: 50%;
     object-fit: contain;
@@ -220,26 +220,26 @@ margin-right: auto;
 
 
 
-.item-desc .btn{
+.card-box .btn{
     align-self: center;
     margin-top: 35px;
 }
 
-.item-desc p{
+.card-box p{
   font-weight: bold;
   margin-top: 10px;
   text-align: center;
  
 }
 
-.item-desc .id1{
+.cardbox .id1{
     width: 50%;
 align-self: center;  
 /* background-color: red;  */
 /* margin-top: 10px;  */
 }
 
-.item-desc span{
+.card-box span{
     margin-top: 25px;
 }
 
