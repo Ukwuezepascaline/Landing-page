@@ -137,7 +137,7 @@ margin: 5px 0;
 }
 
 .fa-text .fa,
-.fa-txt .fa{
+.fa-text .fa{
 font-size: 24px;
 font-weight: 700;
 }
@@ -158,7 +158,7 @@ img{
 
 }
 
-.h-img .fa-text{
+.hero-img .fa-text{
 position: absolute;
 top: 17rem;
 left: 190px;
@@ -167,14 +167,14 @@ gap: 20px;
 }
 
 
-.diplay-item{
+.category{
     display: flex;
     justify-content: center;  
     gap: 10px;
 }
 
 
-.display-item-txt{
+.item-txt{
    padding-top: 50px;
    padding-left: 10px;
 }
